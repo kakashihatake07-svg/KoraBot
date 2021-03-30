@@ -29,13 +29,13 @@ You can find my list of available commands with :
 """
 
 
-BOT_IMG = "https://telegra.ph/file/2fbf54ecf569496431507.jpg"
+BOT_IMG = "https://telegra.ph/file/d311b4c0e14c2e1dd7427.mp4"
 
 
 
 
 HELP_STRINGS = """
-*Helpful Commands :* [.](https://telegra.ph/file/2fbf54ecf569496431507.jpg)
+*Helpful Commands :* [.](https://telegra.ph/file/78a033b5a724b9db7ec0d.jpg)
 ✧ /start: Starts me! You've probably already used this.
 ✧ /help: Sends this message; I'll tell you more about myself!
 ✧ /settings: 
